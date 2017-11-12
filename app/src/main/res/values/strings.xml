@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">JPCON</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="retry">RETRY</string>
+    <string name="something_went_wrong">Something went wrong</string>
+
+
+    <string-array name="currency_options">
+        <item>NGN</item>
+        <item>USD</item>
+        <item>BDT</item>
+        <item>BRL</item>
+        <item>BND</item>
+        <item>CAD</item>
+        <item>AUD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>AED</item>
+        <item>CNY</item>
+        <item>OMR</item>
+        <item>AFN</item>
+        <item>EGP</item>
+        <item>HKD</item>
+        <item>JMD</item>
+        <item>MXN</item>
+        <item>LBP</item>
+        <item>CHF</item>
+        <item>CLP</item>
+    </string-array>
+
+    <string-array name="country_options">
+        <item>NIGERIA</item>
+        <item>USA</item>
+        <item>BANGLADESH</item>
+        <item>BRAZIL</item>
+        <item>BRUNEI</item>
+        <item>CANADA</item>
+        <item>AUSTRALIA</item>
+        <item>EURO</item>
+        <item>BRITAIN</item>
+        <item>UAE</item>
+        <item>CHINA</item>
+        <item>OMAN</item>
+        <item>AFGHANISTAN</item>
+        <item>EGYPT</item>
+        <item>HONG-KONG</item>
+        <item>JAMAICA</item>
+        <item>MEXICO</item>
+        <item>LEBANON</item>
+        <item>SWITZERLAND</item>
+        <item>CHILE</item>
+    </string-array>
+
+</resources>
